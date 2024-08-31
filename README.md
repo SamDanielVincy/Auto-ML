@@ -20,25 +20,25 @@ The Machine Learning Hub offers the following features:
 - **Interactive Visualizations**: Visualize model performance with interactive charts.
 - **File Handling**: Upload datasets, preprocess data, and download trained models.
 
-##ScreenShots
+## ScreenShots
 
 ###Home Page
 ![image](https://github.com/user-attachments/assets/712a580d-0b8d-4661-8ffc-5a40f46acceb)
 
-###Data Preprocessing
+### Data Preprocessing
 ![image](https://github.com/user-attachments/assets/4dfe3ac9-d9f6-4fc2-b02c-5625c19d9aac)
 
-###Model Training
+### Model Training
 ![image](https://github.com/user-attachments/assets/d6d960c7-e292-4211-aa78-cfa3ec987304)
 
-###Model Comparison
+### Model Comparison
 ![image](https://github.com/user-attachments/assets/6333c566-7ac3-4561-b02d-1b23139da43f)
 
-##Choosing Model
+## Choosing Model
 ![image](https://github.com/user-attachments/assets/6b803d49-9f2c-458d-a0c8-8dece7c6f803)
 
 
-###Real-Time Prediction
+### Real-Time Prediction
 ![image](https://github.com/user-attachments/assets/047bf19f-381e-4ace-ab18-adf792576bb0)
 
 
