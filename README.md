@@ -22,7 +22,7 @@ The Machine Learning Hub offers the following features:
 
 ## ScreenShots
 
-###Home Page
+### Home Page
 ![image](https://github.com/user-attachments/assets/712a580d-0b8d-4661-8ffc-5a40f46acceb)
 
 ### Data Preprocessing
