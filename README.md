@@ -42,3 +42,7 @@ The Machine Learning Hub offers the following features:
 ![image](https://github.com/user-attachments/assets/047bf19f-381e-4ace-ab18-adf792576bb0)
 
 
+
+
+Thanks for exploring the Auto-Ml Repositry!
+   
